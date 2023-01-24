@@ -4,3 +4,8 @@ added Sand grease pupa,new enemies and Artifact loactions
 # Instructions
 If you want to collect materials automatically,the range of auto pick needs to be more than 5m
 ----------
+Contributors
+======
+[Sam5440](https://github.com/Sam5440/)
+--
+[]
