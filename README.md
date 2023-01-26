@@ -1,5 +1,5 @@
 # 2023/1/26 Update
-Optimized the files of FatuiAgent and Specter.
+Optimized the files of FatuiAgent and Specter.And Nobushi&Kairagi
 -
 # Instructions
 It is suggested that the killing aura and automatic collection be set to 15 ~ 20m.
