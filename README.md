@@ -1,8 +1,8 @@
-# 2023/1/24 Update
-added Sand grease pupa,new enemies and Artifact loactions
+# 2023/1/26 Update
+Optimized the files of FatuiAgent and Specter.
 -
 # Instructions
-If you want to collect materials automatically,the range of auto pick needs to be more than 5m
+It is suggested that the killing aura and automatic collection be set to 15 ~ 20m.
 ----------
 Contributors
 ======
