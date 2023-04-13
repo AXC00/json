@@ -1,5 +1,5 @@
-# 2023/1/26 Update
-Optimized the files of FatuiAgent and Specter.And Nobushi&Kairagi
+# 2023/4/13 Update
+苍石沙漠宝箱和神瞳，请阅读说明书使用
 -
 # Instructions
 It is suggested that the killing aura and automatic collection be set to 15 ~ 20m.
